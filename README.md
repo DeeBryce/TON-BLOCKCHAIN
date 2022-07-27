@@ -18,7 +18,7 @@ How so? Ethereum only supports only 64 shardchains. Solana does not support any 
 Through a P2P protocol, the whole system works in a completely decentralised way. This makes it resistant to censorship and other attacks that could be made on the network.
 
 
-2022 Is The Breakout Year For TON
+<strong>2022 Is The Breakout Year For TON</strong>
 
 TON is aiming for one thing - mass adoption. This project's goal is to bring together all of the other blockchains into a single, decentralised network where transactions happen quickly and cheaply.
 
@@ -28,7 +28,7 @@ FreeTON also just released TON Swap, a decentralised exchange (DEX) that claims 
 
 The FreeTON network lets developers build apps using traditional computer languages like C and C++ and the Web3 language Solidity, which has become popular among Ethereum developers. Even though this project is legally and operationally separate from Telegram, FreeTON has stuck to the original project's goal of becoming a decentralised "super server" network that can be used by anyone, from regular people to public and private organisations.
 
-The Roadmap For 2022
+<strong>The Roadmap For 2022</strong>
 
 The roadmap for 2022 doesn't slow down, and by the end of the year, TON will have everything it needs to support web3. TON is about to launch its DNS service, which would give accounts, smart contracts, services, and network nodes on its blockchain human-readable names. This will make it as easy to browse as the world-wide web. The launch of the TON Proxy, TON DeFi, and the TON Developers Program are also crucial steps. Now that those things have happened, TON's last task will be to finish its distributed file-storage system, Ton Storage, and launch its anticipated TON Workchains. These are supposed to connect all existing blockchains into one large, decentralised network.
 
